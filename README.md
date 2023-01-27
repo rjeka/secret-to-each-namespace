@@ -6,3 +6,4 @@ What tools do you need:
 * [Argocd](https://argo-cd.readthedocs.io)
 * [External Secrets operator](https://external-secrets.io/v0.7.2/)
 * [kyverno](https://kyverno.io/)
+
