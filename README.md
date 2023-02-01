@@ -11,4 +11,4 @@ What tools do you need:
 
 ## How it works
 
-"To begin, deploy the Kyverno policy which automatically sets labels  "harbor-secret: true" to each namespace. This label will trigger the ClusterExternalSecret to generate a secret that grants access to the Docker registry."
+To begin, deploy the Kyverno policy which automatically sets labels  "harbor-secret: true" to each namespace. This label will trigger the ClusterExternalSecret to generate a secret in the labeled namespaces that grants access to the Docker registry
