@@ -7,3 +7,4 @@ What tools do you need:
 * [External Secrets operator](https://external-secrets.io/v0.7.2/)
 * [kyverno](https://kyverno.io/)
 
+![Diagram](ima/secret-to-each-namespace.drawio.png)
